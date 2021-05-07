@@ -1,0 +1,10 @@
+#img{
+    display: inline-block;
+    width: 100%;
+    padding-top: 20px;
+    position: relative;
+}
+
+::ng-deep .carousel-control-next-icon {
+    filter: 100%;   
+}
